@@ -30,7 +30,7 @@
 
 ###
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana-1623&layout=compact&hide=css,html" height="120" alt="streak graph"  /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana-1623&theme=tokyonight" height="120" alt="streak graph"  /></p>
 <a href="https://github.com/Sahana-1623?tab=repositories">
   <img src="https://badges.pufler.dev/repos/Sahana-1623?style=flat-square&color=black&logo=github">
 </a>
