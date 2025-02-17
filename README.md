@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <p>I’m a DevOps Engineer expanding into MERN Stack Development.</p>
+  <p>I’m a System Engineer expanding into MERN Stack Development.</p>
   <i>I build web apps with MongoDB, Express.js, React, Node.js, while constantly improving my DevOps skills.</i>
 </div>
 
